@@ -1,0 +1,30 @@
+h1{
+    color:red;
+    font-size: 6em;
+
+}
+
+p{
+    font-size: 30px;
+    color: orange;
+
+}
+
+p a{
+    color: orange;
+}
+
+#boba {
+    color: green;
+}
+/* only allow one boba in one page
+*/
+
+.taco{
+    font-size: 18px;
+}
+
+body{
+    background-color: hotpink;
+}
+
